@@ -12,7 +12,7 @@ This script scrapes job listings from the portaljob-madagascar.com website and s
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/claudioandriaan/scraping-portal-job-mada.git
 
 2. Install the requirement 
    ```shell
